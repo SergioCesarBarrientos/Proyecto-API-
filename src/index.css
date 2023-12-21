@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    font-family: 'Concert One', sans-serif;
+    background-color: #ffe5ec;
+}
+
+:root{
+    --color-uno: #ffe5ec;
+    --color-dos: #ffc2d1;
+    --color-tres: #ffb3c6;
+    --color-cuatro: #ff8fab;
+    --color-cinco: #fb6f92;
+}
